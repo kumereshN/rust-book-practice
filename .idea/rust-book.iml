@@ -5,8 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/02_guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_structs/rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
