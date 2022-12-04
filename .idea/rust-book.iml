@@ -6,9 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/02_guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_structs/rectangles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/concise_control_flow_with_if_let/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/concise_control_flow_with_if_let/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
