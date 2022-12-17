@@ -1,3 +1,4 @@
+mod front_of_house;
 
 fn deliver_order() {}
 
@@ -29,8 +30,6 @@ mod back_of_house {
     fn cook_order() {}
 }
 
-
-
 mod customer {
     use crate::front_of_house::hosting;
     pub fn eat_at_restaurant() {
@@ -55,4 +54,10 @@ mod customer {
 
         hosting::add_to_waitlist();
     }
+}
+
+
+
+fn main() {
+    println!("Hello, world!");
 }
