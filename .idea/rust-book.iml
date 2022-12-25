@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/08_common_collections/vectors/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/generics/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetimes/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -23,6 +25,8 @@
       <excludeFolder url="file://$MODULE_DIR$/08_common_collections/String/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

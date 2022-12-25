@@ -1,4 +1,4 @@
-// use lib::{Summary, Tweet};
+use lib::{NewsArticle, Summary, Tweet, notify};
 
 fn main() {
     let tweet = Tweet {
@@ -9,5 +9,20 @@ fn main() {
         reply: false,
         retweet: false,
     };
+
+    // Pass any instance of Tweet or NewsArticle to notify impl method
+    notify(&tweet);
     println!("1 new tweet: {}", tweet.summarize());
+
+    let article = NewsArticle {
+        headline: String::from("Penguins win the Stanley Cup Championship!"),
+        location: String::from("Pittsburg, PA, USA"),
+        author: String::from("Iceburgh"),
+        content: String::from(
+            "The Pittsburgh Penguins once again are the best \
+               hockey team in the NHL."
+        ),
+    };
+
+    // println!("New article available! {}", article.summarize());
 }
