@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetimes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12_creating_cli_grep/minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_iterators_closures/shirts/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -29,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetimes/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/target" />
       <excludeFolder url="file://$MODULE_DIR$/12_creating_cli_grep/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/shirts/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
