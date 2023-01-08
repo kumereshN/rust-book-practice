@@ -20,23 +20,25 @@
       <sourceFolder url="file://$MODULE_DIR$/13_iterators_closures/iterators/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13_iterators_closures/shoes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15_smart_pointers/boxes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_smart_pointers/drop_trait/drop_trait/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/concise_control_flow_with_if_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/07_packages_crates_modules/restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/07_packages_crates_modules/seperate_mods_into_files/target" />
+      <excludeFolder url="file://$MODULE_DIR$/08_common_collections/vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/08_common_collections/String/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/generics/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/traits/target" />
-      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/shirts/target" />
-      <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/target" />
-      <excludeFolder url="file://$MODULE_DIR$/07_packages_crates_modules/restaurant/target" />
-      <excludeFolder url="file://$MODULE_DIR$/08_common_collections/vectors/target" />
-      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/shoes/target" />
-      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/iterators/target" />
-      <excludeFolder url="file://$MODULE_DIR$/08_common_collections/String/target" />
-      <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/concise_control_flow_with_if_let/target" />
-      <excludeFolder url="file://$MODULE_DIR$/07_packages_crates_modules/seperate_mods_into_files/target" />
-      <excludeFolder url="file://$MODULE_DIR$/12_creating_cli_grep/minigrep/target" />
       <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetimes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/10_generics_traits_and_lifetimes/lifetime_annotations/target" />
+      <excludeFolder url="file://$MODULE_DIR$/12_creating_cli_grep/minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/shirts/target" />
+      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/iterators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/13_iterators_closures/shoes/target" />
       <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/boxes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/drop_trait/drop_trait/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
