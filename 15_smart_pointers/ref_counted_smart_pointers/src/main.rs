@@ -1,3 +1,4 @@
+#[derive(Debug)]
 enum List {
     Cons(i32, Rc<List>),
     Nil,
