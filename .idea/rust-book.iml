@@ -26,6 +26,8 @@
       <sourceFolder url="file://$MODULE_DIR$/15_smart_pointers/ref_cell/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15_smart_pointers/ref_cycles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15_smart_pointers/weak_ref_cell/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_oop/avg_collection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16_oop/trait_objects/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -49,6 +51,8 @@
       <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/ref_cell/target" />
       <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/ref_cycles/target" />
       <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/weak_ref_cell/target" />
+      <excludeFolder url="file://$MODULE_DIR$/16_oop/avg_collection/target" />
+      <excludeFolder url="file://$MODULE_DIR$/16_oop/trait_objects/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
