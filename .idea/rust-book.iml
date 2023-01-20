@@ -30,6 +30,7 @@
       <sourceFolder url="file://$MODULE_DIR$/16_oop/trait_objects/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16_oop/blog_project/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/16_oop/blog_project_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18_pattern_matching/all_the_places_patterns_can_be_used/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -57,6 +58,7 @@
       <excludeFolder url="file://$MODULE_DIR$/15_smart_pointers/ref_cycles/target" />
       <excludeFolder url="file://$MODULE_DIR$/16_oop/blog_project/target" />
       <excludeFolder url="file://$MODULE_DIR$/16_oop/blog_project_2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/18_pattern_matching/all_the_places_patterns_can_be_used/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
