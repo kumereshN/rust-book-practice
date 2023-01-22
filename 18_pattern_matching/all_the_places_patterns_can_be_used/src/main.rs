@@ -26,4 +26,9 @@ fn main() {
     while let Some(top) = stack.pop() {
         println!("{top}");
     }
+
+    
+    if let Some(x) = some_option_value {
+        println!("{}", x);
+    }
 }
