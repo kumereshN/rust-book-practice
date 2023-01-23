@@ -32,6 +32,11 @@
       <sourceFolder url="file://$MODULE_DIR$/16_oop/blog_project_2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/18_pattern_matching/all_the_places_patterns_can_be_used/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/18_pattern_matching/pattern_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_meters_millimeters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_extern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_static_var/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -61,6 +66,11 @@
       <excludeFolder url="file://$MODULE_DIR$/18_pattern_matching/all_the_places_patterns_can_be_used/target" />
       <excludeFolder url="file://$MODULE_DIR$/16_oop/blog_project/target" />
       <excludeFolder url="file://$MODULE_DIR$/18_pattern_matching/pattern_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_extern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_static_var/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_meters_millimeters/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
