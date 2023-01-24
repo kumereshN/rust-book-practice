@@ -41,6 +41,7 @@
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_dogs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_types/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -79,6 +80,7 @@
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_dogs/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_types/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
