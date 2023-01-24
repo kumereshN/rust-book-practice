@@ -37,6 +37,10 @@
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_extern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_static_var/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_disambiguation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_dogs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -71,6 +75,10 @@
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/unsafe_rust_static_var/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_meters_millimeters/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_disambiguation/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_dogs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
