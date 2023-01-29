@@ -42,6 +42,10 @@
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/function_pointers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_macros/declarative_macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/hello_macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -81,6 +85,10 @@
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_super_traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_traits_newtype/target" />
       <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/19_advanced_features/advanced_functions_and_closures/function_pointers/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_macros/declarative_macros/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/target" />
+      <excludeFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/hello_macro/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
