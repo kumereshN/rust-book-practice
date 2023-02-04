@@ -46,6 +46,7 @@
       <sourceFolder url="file://$MODULE_DIR$/20_macros/declarative_macros/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/hello_macro/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21_build_web_server/hello/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/02_guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/05_structs/rectangles/target" />
       <excludeFolder url="file://$MODULE_DIR$/06_enums_and_pattern_matching/enums_and_pattern_matching/target" />
@@ -89,6 +90,7 @@
       <excludeFolder url="file://$MODULE_DIR$/20_macros/declarative_macros/target" />
       <excludeFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/target" />
       <excludeFolder url="file://$MODULE_DIR$/20_macros/procedural_macros/hello_macro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/21_build_web_server/hello/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
